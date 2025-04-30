@@ -2,6 +2,7 @@
 Crime Pattern Analysis using Machine Learning whilst following CRISP-DM
 This team project explores crime data through preprocessing, visualization, classification, and unsupervised learning techniques to uncover trends and anomalies.
 
+![map](./crime_map.jpg)
 ---
 
 ## Project Workflow
