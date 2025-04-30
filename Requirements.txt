@@ -1,0 +1,7 @@
+#Main Requirements 
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit-learn
+Python
